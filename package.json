@@ -1,0 +1,20 @@
+{
+  "name": "slic",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.2",
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9"
+  }
+}
